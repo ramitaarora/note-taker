@@ -15,7 +15,7 @@ This project is a note taker so that the user is able to write and save notes. U
 
 ## Installation
 
-This project is deployed at: https://note-taker-indurkhya-ec8aced3a7cc.herokuapp.com/
+This project is deployed at: https://enigmatic-woodland-29234-dd1399ff8726.herokuapp.com/.
 
 ## Usage
 
