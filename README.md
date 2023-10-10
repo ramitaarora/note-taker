@@ -15,7 +15,7 @@ This project is a note taker so that the user is able to write and save notes. U
 
 ## Installation
 
-This project is deployed at: 
+This project is deployed at: https://note-taker-indurkhya-ec8aced3a7cc.herokuapp.com/
 
 ## Usage
 
