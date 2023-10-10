@@ -15,14 +15,11 @@ This project is a note taker so that the user is able to write and save notes. U
 
 ## Installation
 
-To install, run `npm install`.
-To run, run `npm start`.
+This project is deployed at: 
 
 ## Usage
 
 <img src="./public/assets/images/note-taker-screenshot.png" alt="screenshot"/>
-
-This project is deployed at: 
 
 ## Credits
 
